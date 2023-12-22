@@ -6,7 +6,7 @@ const withNextra = require('nextra')({
 
 const repo = 'portfolio'
 const assetPrefix = `/${repo}/`
-const basePath = `/${repo}/`
+const basePath = `/${repo}`
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
