@@ -15,7 +15,7 @@ export default function App({ Component, pageProps }: AppProps) {
         />
         <link
           rel="preload"
-          href="${assetPrefix}/fonts/Inter-roman.latin.var.woff2"
+          href="/portfolio/fonts/Inter-roman.latin.var.woff2"
           as="font"
           type="font/woff2"
           crossOrigin="anonymous"
