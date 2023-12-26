@@ -61,7 +61,7 @@ export default function Nextra({ Component, pageProps }) {
         />
         <link
           rel="preload"
-          href="/fonts/Inter-roman.latin.var.woff2"
+          href="${assetPrefix}/fonts/Inter-roman.latin.var.woff2"
           as="font"
           type="font/woff2"
           crossOrigin="anonymous"
